@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log('im your wild girl');
+console.log('juliette cried, "Where art thou Romeo"')
 
 /*  
 Next, PLAY! 
