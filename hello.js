@@ -4,12 +4,16 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
+<<<<<<< HEAD
 const input = require('readline-sync');
 
 let info = input.question("Please enter your age: ");
 //The user enters 25.
 
 console.log(typeof);
+=======
+console.log("Bruce's beard");
+>>>>>>> d6b8745257f2dad25c13ed0274e5a6746e48fb50
 
 /*  
 Next, PLAY! 
